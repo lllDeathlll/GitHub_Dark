@@ -460,3 +460,21 @@
 .option-96V44q:after {
     width: 0px;
 }
+
+.menu_dc52c6, .body_ea740e, .container_d6dad3, .option_b5597b, .searchOption__41bc5, .user__97b4c, .container_d6dad3, .calendarPicker__5c474 {
+	background-color: var(--background-primary) !important;
+}
+
+.themed_b152d4 {
+	background-color: var(--background-secondary) !important;
+}
+
+.interactive__01cfa:hover {
+	background-color: var(--background-floating) !important;
+}
+
+.bd-addon-list .bd-addon-card {
+    border: var(--border);
+    border-radius: var(--border-radius);
+    margin-bottom: 18px;
+}
